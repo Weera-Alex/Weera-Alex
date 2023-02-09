@@ -28,12 +28,12 @@ fun main() {
 ```
 
 ## Languages and Tools:
+![](https://img.shields.io/badge/Build%20Tool-Gradle-brightgreen?style=flat&logo=gradle&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?style=flat&logo=android-studio&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Version%20Control-Git-brightgreen?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8)
 
 
 
