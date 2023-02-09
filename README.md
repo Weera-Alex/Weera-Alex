@@ -2,12 +2,9 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title=".NET - Visual Basic" alt=".NET - Visual Basic" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title=".NET - Visual Basic" alt=".NET - Visual Basic" width="40"   height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
-
-
-
+  <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="40" height="40">
 </div>
 
 <!--
