@@ -12,7 +12,7 @@ fun main() {
         name = "Weera Alex",
         age = 20,
         location = "Manila",
-        hobbies = listOf("Coding", "Reading", "Cooking")
+        hobbies = listOf("Coding", "Reading", "Video games")
     )
 
     println("Hi there, I'm ${myProfile.name}.")
@@ -23,7 +23,7 @@ fun main() {
 
 //Hi there, I'm Weera Alex.
 //I'm 20 years old and I live in Manila.
-//My hobbies include Coding, Reading, Cooking.
+//My hobbies include Coding, Reading, Video games.
 
 ```
 
