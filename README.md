@@ -1,10 +1,31 @@
 
 
-<div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/113547522/217779450-94f91b91-a9e4-45dd-87c3-04d1a7e2b29d.png" width="200" height="200" />
 
-</div>
+  <img src="https://user-images.githubusercontent.com/113547522/217779450-94f91b91-a9e4-45dd-87c3-04d1a7e2b29d.png" width="40" height="40" />
 
+
+```kotlin
+data class MyProfile(val name: String, val age: Int, val location: String, val hobbies: List<String>)
+
+fun main() {
+    val myProfile = MyProfile(
+        name = "Weera Alex",
+        age = 20,
+        location = "Manila",
+        hobbies = listOf("Coding", "Reading", "Cooking")
+    )
+
+    println("Hi there, I'm ${myProfile.name}.")
+    println("I'm ${myProfile.age} years old and I live in ${myProfile.location}.")
+    println("My hobbies include ${myProfile.hobbies.joinToString(", ")}.")
+}
+//Output: 
+
+//Hi there, I'm Weera Alex.
+//I'm 20 years old and I live in Manila.
+//My hobbies include Coding, Reading, Cooking.
+
+```
 
 ## Languages and Tools:
 
