@@ -1,7 +1,7 @@
 
 
 
-  <img src="https://user-images.githubusercontent.com/113547522/217779450-94f91b91-a9e4-45dd-87c3-04d1a7e2b29d.png" width="40" height="40" />
+  <img src="https://user-images.githubusercontent.com/113547522/217779450-94f91b91-a9e4-45dd-87c3-04d1a7e2b29d.png" width="50" height="50" />
 
 
 ```kotlin
