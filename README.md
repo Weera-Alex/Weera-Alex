@@ -1,31 +1,11 @@
 
+ 
+<p align="center">
+  
 
+<img src="https://user-images.githubusercontent.com/113547522/218117917-7822acaa-1e5d-48b0-8c2e-ce56327ec87c.gif" style="width:550%">
+</p>
 
-  <img src="https://user-images.githubusercontent.com/113547522/217779450-94f91b91-a9e4-45dd-87c3-04d1a7e2b29d.png" width="50" height="50" />
-
-
-```kotlin
-data class MyProfile(val name: String, val age: Int, val location: String, val hobbies: List<String>)
-
-fun main() {
-    val myProfile = MyProfile(
-        name = "Weera Alex",
-        age = 20,
-        location = "Manila",
-        hobbies = listOf("Coding", "Reading", "Video games")
-    )
-
-    println("Hi there, I'm ${myProfile.name}.")
-    println("I'm ${myProfile.age} years old and I live in ${myProfile.location}.")
-    println("My hobbies include ${myProfile.hobbies.joinToString(", ")}.")
-}
-//Output: 
-
-//Hi there, I'm Weera Alex.
-//I'm 20 years old and I live in Manila.
-//My hobbies include Coding, Reading, Video games.
-
-```
 
 ## Languages and Tools:
 ![](https://img.shields.io/badge/Build%20Tool-Gradle-brightgreen?style=flat&logo=gradle&logoColor=white&color=6aa6f8)
