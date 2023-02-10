@@ -14,16 +14,18 @@
 ![](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?style=flat&logo=android-studio&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Version%20Control-Git-brightgreen?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/3D-Blender-informational?style=flat&logo=blender&logoColor=white&color=6aa6f8)
+
 
 
 
 <div style="text-align: center;">
+  
+![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Language-Visual%20Basic%20.NET-informational?style=flat&logo=visual-basic&logoColor=white&color=6aa6f8)
 
-![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
 
   </div>
 <!--
