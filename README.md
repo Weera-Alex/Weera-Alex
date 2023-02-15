@@ -2,11 +2,7 @@
 你好欢迎! </h2>
 
 
-<p align="center">
-  
 
-<img src="https://user-images.githubusercontent.com/113547522/218117917-7822acaa-1e5d-48b0-8c2e-ce56327ec87c.gif" style="width:550%">
-</p>
 
 
 ## Languages and Tools:
