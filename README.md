@@ -1,7 +1,5 @@
-<h2> <img src="https://user-images.githubusercontent.com/113547522/219038784-49aaf398-1064-432f-87bf-3e9cafa7b3ca.png" width="30" /> 
+<h2> <img src="https://user-images.githubusercontent.com/113547522/219299027-8f4b3bf7-371b-4457-84c6-a127c4329022.png" width="30" /> 
 你好欢迎! </h2>
-
-
 
 
 
@@ -26,6 +24,8 @@
   </div>
 <!--
 **han-chan-dev/han-chan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![4030-kanna-oh-welcome](https://user-images.githubusercontent.com/113547522/219298697-1eb3037e-0638-4eb1-a379-da87041b56eb.gif)
+
 
 Here are some ideas to get you started:
 
