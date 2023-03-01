@@ -1,4 +1,4 @@
-<h2> <img src="https://www.codewars.com/users/WeeraAlex/badges/large"  /> 
+<h2> <img src="https://www.codewars.com/users/KhanEnzio/badges/micro"  /> 
  </h2>
 
 
