@@ -1,7 +1,8 @@
-<h2> <img src="https://www.codewars.com/users/KhanEnzio/badges/micro"  /> 
- </h2>
 
 
+```ada
+Ada.Text_IO.Put_Line("Hi");
+```
 
 ## Languages and Tools:
 ![](https://img.shields.io/badge/Build%20Tool-Gradle-brightgreen?style=flat&logo=gradle&logoColor=white&color=6aa6f8)
